@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Please click on the below icon to view my LinkedIn profile.<br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christina-shiroma-027133184/)
 
-#### I am currently familiar with the following (1 star being that I am familiar/used it lightly, and 5 stars being that I am very comfortable/use often):
+#### I am currently familiar with the following (1 star being that I am slightly familiar/use lightly, and 5 stars being that I am very comfortable/use often):
 
 ⭐⭐⭐⭐⭐<br>
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)<br>
