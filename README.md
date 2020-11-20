@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Please click on the below computer icon to view my Portfolio:<br>
 <a href="https://christina2021.github.io/My-Portfolio" target="_blank">💻</a><br>
 Please click on the below LinkedIn icon to view my LinkedIn profile:<br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christina-shiroma-027133184/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christina2021/)
 
 #### I am currently familiar with the following (1 star being that I am slightly familiar/use lightly, and 5 stars being that I am very comfortable/use often):
 
