@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <a href="mailto:codechristina2021@gmail.com?subject=Hello!"><img src="https://img.shields.io/badge/Email-important?style=flat" alt="Email"></a>
 </p>
 
-I am a student enrolled in the University of California, San Diego Extension's Web Development Bootcamp.  I am currently based in San Diego.  Feel free to reach out to me at !
+I am a student enrolled in the University of California, San Diego Extension's Web Development Bootcamp.
 
 #### I am currently familiar with the following (1 star being that I am slightly familiar/use lightly, and 5 stars being that I am very comfortable/use often):
 
