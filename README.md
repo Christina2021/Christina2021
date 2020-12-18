@@ -41,5 +41,7 @@ I am a student enrolled in the University of California, San Diego Extension's W
 ⭐<br>
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
 )<br>
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)<br>
 
+	
 
