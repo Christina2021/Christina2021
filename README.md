@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My Banner](./images/github-profile-image.jpg)
+![My Banner](./images/github-profile-image-1.jpg)
 <p>
     <a href="https://christina2021.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/MyPortfolio-success?style=flat" alt="Portfolio">
     <a href="https://www.linkedin.com/in/christina2021/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Portfolio"></a>
