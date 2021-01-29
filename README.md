@@ -42,5 +42,5 @@ I am a student enrolled in the University of California, San Diego Extension's W
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)<br>
 
 <br>
-Should you have any questions, you may reach me by e-mail at: codechristina2021@gmail.com!.
+Should you have any questions, you may reach me by e-mail at: codechristina2021@gmail.com!
 
