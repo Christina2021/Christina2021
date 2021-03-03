@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![My Banner](./images/github-profile-image-1.png)
 <p>
-    <a href="https://christina2021.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/MyPortfolio-success?style=flat" alt="Portfolio">
+    <a href="https://christina2021.github.io/react-portfolio/#/"><img src="https://img.shields.io/badge/MyPortfolio-success?style=flat" alt="Portfolio">
     <a href="https://www.linkedin.com/in/christina2021/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Portfolio"></a>
     <a href="mailto:codechristina2021@gmail.com?subject=Hello!"><img src="https://img.shields.io/badge/Email-important?style=flat" alt="Email"></a>
 </p>
